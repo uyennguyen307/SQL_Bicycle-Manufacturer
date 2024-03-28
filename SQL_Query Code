@@ -1,3 +1,5 @@
+Big Query Project Link: https://console.cloud.google.com/bigquery?hl=en&project=beaming-light-402814&ws=!1m8!1m7!8m2!1s86925067577!2sb7266a7f1e7c461a9c51373ea341c6f2!14m3!1sbeaming-light-402814!2sbquxjob_335085a4_18e82f62c71!3sUS
+
 -- Query 1: Calculate Quantity of items, Sales value & Order quantity by each Subcategory in L12M
 
 with get_data as  (SELECT *,a.ModifiedDate as MD, c.name as name1
@@ -120,7 +122,6 @@ FROM get_data
 WHERE yr='2011';
 
 -- Query 7: "Calculate MoM Ratio of Stock / Sales in 2011 by product name
---  Query 7 em làm không giống kết quả ạ
 
 With sale_info as (SELECT extract(month from a.ModifiedDate) as mth, 
                           extract(year from a.ModifiedDate) as yr, 
