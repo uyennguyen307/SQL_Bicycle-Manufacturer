@@ -22,7 +22,7 @@ https://console.cloud.google.com/bigquery?sq=86925067577:b7266a7f1e7c461a9c51373
 
 _**SQL Code**_
 
-
+![image](https://github.com/uyennguyen307/SQL_Bicycle-Manufacturer/assets/162019618/ebeefb3c-b602-41af-b305-a5f2e2fd7e35)
 
 _**Query result 1**_
 
@@ -33,76 +33,78 @@ _**Query result 1**_
 
 _**SQL Code**_
 
+![image](https://github.com/uyennguyen307/SQL_Bicycle-Manufacturer/assets/162019618/f7e977a9-82d6-48f7-afe3-79cf9f50c7ac)
+
 
 _**Query result 2**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/48e29473-6ebb-4a54-8d70-b7af0a1b6cec)
+
 
 ---
-**Question 3: **
+**Question 3: Ranking the Top 3 TeritoryID with the biggest Order quantity every year. If there's TerritoryID with the same quantity in a year, do not skip the rank number**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/70bb9090-4e0d-4575-b0c2-f3142a15418f)
+![image](https://github.com/uyennguyen307/SQL_Bicycle-Manufacturer/assets/162019618/f35c7988-728e-44a6-ab54-63c8f8262e11)
+
 
 _**Query result 3**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/1b85e451-4030-4602-9b44-422e3a65d667)
+
 
 ---
-**Question 4: **
+**Question 4: Calculate Total Discount Cost belongs to Seasonal Discount for each SubCategory**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/1783d746-8c46-402a-8c28-297cef463aa5)
+
 
 _**Query result 4**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/bfcb7876-be30-49c5-8cc3-e5fbe7dc7069)
+
 
 
 ---
-**Question 5: **
+**Question 5:Retention rate of Customer in 2014 with status of Successfully Shipped (Cohort Analysis)**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/aa017c47-2687-4de5-bfa8-4796234c31f0)
+
 
 _**Query result 5**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/93d25d06-528e-43a7-b4d4-434b283d0ae7)
+
 
 
 ---
-**Question 6: **
+**Question 6: Trend of Stock level & MoM diff % by all product in 2011. If %gr rate is null then 0. Round to 1 decimal**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/297b5e83-d7fc-4635-a7fa-6c5966c18f6b)
+
 
 _**Query result 6**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/9314f6d4-e63c-478f-aefc-1ba62dc01e1f)
+
 ---
-**Question 7: **
+**Question 7: Calculate MoM Ratio of Stock / Sales in 2011 by product name**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/b62c9733-3378-4a21-9068-ea7f5c8d5c86)
+
 
 _**Query result 7**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/2f0f1cd4-299c-4821-b451-5dcc8894730d)
+
 
 
 ---
-**Question 8:**
+**Question 8: No of order and value at Pending status in 2014**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/cd9d5473-d440-44ec-b76e-b0593e4e3639)
 
 _**Query result 8**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/27610560-c30a-4557-a23e-a1c66cba53f9)
+
 
