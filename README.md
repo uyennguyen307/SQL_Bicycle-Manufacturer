@@ -18,29 +18,28 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 
 https://console.cloud.google.com/bigquery?sq=86925067577:b7266a7f1e7c461a9c51373ea341c6f2
 
-**Question 1: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month**
+**Question 1: Calculate Quantity of items, Sales value & Order quantity by each Subcategory in L12M**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/d1916659-7e4e-41f6-bd43-fb0b188cf765)
+
 
 _**Query result 1**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/c0c1d57e-b9a6-41f8-84a6-67db06cfbde0)
+
 
 ---
-**Question 2: Bounce rate per traffic source in July 2017**
+**Question 2: Calculate % YoY growth rate by SubCategory & release the top 3 categories with the highest growth rate. Can use metric: quantity_item. Round results to 2 decimal**
 
 _**SQL Code**_
 
-![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/4f188ac7-b92e-4f46-b8a8-4e045c31b076)
 
 _**Query result 2**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/48e29473-6ebb-4a54-8d70-b7af0a1b6cec)
 
 ---
-**Question 3: Revenue by traffic source by week, by month in June 2017**
+**Question 3: **
 
 _**SQL Code**_
 
@@ -51,7 +50,7 @@ _**Query result 3**_
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/1b85e451-4030-4602-9b44-422e3a65d667)
 
 ---
-**Question 4: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.**
+**Question 4: **
 
 _**SQL Code**_
 
@@ -63,7 +62,7 @@ _**Query result 4**_
 
 
 ---
-**Question 5: Average number of transactions per user that made a purchase in July 2017**
+**Question 5: **
 
 _**SQL Code**_
 
@@ -75,7 +74,7 @@ _**Query result 5**_
 
 
 ---
-**Question 6: Average amount of money spent per session. Only include purchaser data in July 2017**
+**Question 6: **
 
 _**SQL Code**_
 
@@ -85,7 +84,7 @@ _**Query result 6**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/9314f6d4-e63c-478f-aefc-1ba62dc01e1f)
 ---
-**Question 7: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**
+**Question 7: **
 
 _**SQL Code**_
 
@@ -97,7 +96,7 @@ _**Query result 7**_
 
 
 ---
-**Question 8:Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase**
+**Question 8:**
 
 _**SQL Code**_
 
