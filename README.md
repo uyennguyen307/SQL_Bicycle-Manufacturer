@@ -16,7 +16,7 @@ Click on the "ga_sessions_" table to open it.
 # IV. Explore Data
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 
-### Big Query Project Link: https://console.cloud.google.com/bigquery?hl=en&project=beaming-light-402814&ws=!1m8!1m7!8m2!1s86925067577!2sb7266a7f1e7c461a9c51373ea341c6f2!14m3!1sbeaming-light-402814!2sbquxjob_335085a4_18e82f62c71!3sUS
+### Big Query Project Link
 
 ## Question 1: Calculate Quantity of items, Sales value & Order quantity by each Subcategory in L12M
 
