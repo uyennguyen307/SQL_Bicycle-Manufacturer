@@ -1,20 +1,14 @@
 # I. Introduction
-This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
+This project contains an Adventure Wwork dataset that I will explore using SQL on Google BigQuery.
 
 # II. Requirements
-Complete 08 query with expected output in Bigquery base on Google Analytics dataset to fulfill analysis requests.
+Complete 08 query with expected output in Bigquery based on the Adventure Wwork dataset to fulfill analysis requests.
 
 # III. Dataset Access
-The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
-
-Log in to your Google Cloud Platform account and create a new project.
-Navigate to the BigQuery console and select your newly created project.
-In the navigation panel, select "Add Data" and then "Search a project".
-Enter the project ID "bigquery-public-data.google_analytics_sample.ga_sessions" and click "Enter".
-Click on the "ga_sessions_" table to open it.
+The Adventure Wwork dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 
 # IV. Explore Data
-In this project, I will write 08 query in Bigquery base on Google Analytics dataset
+In this project, I will write 08 query in Bigquery base on the Adventure Wwork dataset
 
 **Big Query Project Link:** https://console.cloud.google.com/bigquery?sq=86925067577:b7266a7f1e7c461a9c51373ea341c6f2
 
